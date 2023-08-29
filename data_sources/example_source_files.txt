@@ -1,0 +1,3 @@
+https://download.avl.class.noaa.gov/download/../../name_of_file-01.nc
+https://download.avl.class.noaa.gov/download/../../name_of_file-02.nc
+https://download.avl.class.noaa.gov/download/../../name_of_file-03.nc
